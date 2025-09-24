@@ -1,0 +1,38 @@
+[0923/203249.726:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[0923/203254.425:ERROR:entry_impl.cc(1075)] No file for 80000011
+[0923/203256.415:ERROR:entry_impl.cc(1075)] No file for 80000019
+[0923/203256.417:ERROR:entry_impl.cc(1075)] No file for 80000014
+[0923/203256.420:ERROR:entry_impl.cc(1075)] No file for 80000015
+[0923/203256.421:ERROR:entry_impl.cc(1075)] No file for 8000001f
+[0923/203257.782:ERROR:entry_impl.cc(1075)] No file for 80000022
+[0923/203257.782:ERROR:entry_impl.cc(1075)] No file for 80000034
+[0923/203257.783:ERROR:entry_impl.cc(1075)] No file for 80000033
+[0923/203257.783:ERROR:entry_impl.cc(1075)] No file for 80000037
+[0923/203257.784:ERROR:entry_impl.cc(1075)] No file for 8000002f
+[0923/203257.796:ERROR:entry_impl.cc(1075)] No file for 80000026
+[0923/203257.802:ERROR:entry_impl.cc(1075)] No file for 80000035
+[0923/203257.802:ERROR:entry_impl.cc(1075)] No file for 80000023
+[0923/203257.803:ERROR:entry_impl.cc(1075)] No file for 8000002b
+[0923/203257.803:ERROR:entry_impl.cc(1075)] No file for 80000025
+[0923/203257.803:ERROR:entry_impl.cc(1075)] No file for 80000027
+[0923/203326.866:ERROR:entry_impl.cc(1075)] No file for 80000029
+[0923/203450.217:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0923/203714.611:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0923/203714.946:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0923/203734.710:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0923/203734.963:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0923/203736.805:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
